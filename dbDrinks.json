@@ -1,0 +1,28 @@
+{
+  "drinks": [
+    {
+      "id": "1",
+      "name": "beer",
+      "type": "liquid",
+      "description": "A drink that wil make you drunk"
+    },
+    {
+      "id": "2",
+      "name": "darkbeer",
+      "type": "slime",
+      "description": "A drink that wil make you drunk as hell"
+    },
+    {
+      "id": "3",
+      "name": "bluebeer",
+      "type": "glue",
+      "description": "A drink that wil make you stuck"
+    },
+    {
+      "id": "02a4",
+      "name": "guiness",
+      "type": "beeer",
+      "description": "oflife"
+    }
+  ]
+}
