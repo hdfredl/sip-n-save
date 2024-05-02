@@ -11,8 +11,9 @@ function displayDrinks(drinks)
         <p>${drink.type}</p>
         <button id="desc-btn" class="desc-button"> See drink description </button
         </div>`
-        container.innerHTML += html; // GÖR EN TOGGLE HÄR
+        container.innerHTML += html; // GÖR EN TOGGLE HÄR toggla 
     });
+
 
     const descBtn = document.querySelectorAll("#desc-btn");
     descBtn.forEach(button => {
